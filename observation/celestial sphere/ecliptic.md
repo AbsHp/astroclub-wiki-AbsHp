@@ -7,3 +7,4 @@ nav_order: 3
 ---
 
 ## Ecliptic Coordinate System
+In astronomy, the ecliptic coordinate system is a celestial coordinate system commonly used for representing the apparent positions, orbits, and pole [orientations](#orientations) of Solar System objects. Because most planets (except Mercury) and many small Solar System bodies have orbits with only slight inclinations to the ecliptic, using it as the fundamental plane is convenient. The system's origin can be the center of either the Sun or Earth, its primary direction is towards the vernal (March) equinox, and it has a right-hand convention. It may be implemented in spherical or rectangular coordinates.
