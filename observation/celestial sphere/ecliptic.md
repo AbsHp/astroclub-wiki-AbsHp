@@ -84,4 +84,4 @@ $$ -->
 
 where: 
 
-- $$ε$$ = obliquity of the ecliptic
+- ε = obliquity of the ecliptic
