@@ -16,7 +16,7 @@ The following diagram shows the Ecliptic Coordinate System (Credits: [University
 
 <br />
 
-![Ecliptic Coordinate Sphere](<../../assets/images/observation/celestial sphere/ecliptic/sphere.png>)
+![Ecliptic Coordinate System](<../../assets/images/observation/celestial sphere/ecliptic/sphere.png>)
 
 ### Ecliptic
 
