@@ -30,6 +30,7 @@ nav_order: 4
 | Name                        | Department                             | Batch | Email                                                     |
 | --------------------------- | -------------------------------------- | ----- | --------------------------------------------------------- |
 | Aatif Hasan                 | Aerospace Engineering                  | Y22   | [aatifh22@iitk.ac.in](mailto:aatifh22@iitk.ac.in)         |
+| Aditi Singh                 | Mathematics and Scientific Computing   | Y22   | [aditisi@iitk.ac.in](mailto:aditisi22@iitk.ac.in)         |
 | Akshita Agarwal             | Chemistry                              | Y22   | [akshita22@iitk.ac.in](mailto:akshita22@iitk.ac.in)       |
 | Amar Sathwik Thogiti        | Electrical Engineering                 | Y22   | [thogiti22@iitk.ac.in](mailto:thogiti22@iitk.ac.in)       |
 | Aniket Kumar Choudhary      | Electrical Engineering                 | Y22   | [aniketkc22@iitk.ac.in](mailto:aniketkc22@iitk.ac.in)     |
@@ -42,10 +43,11 @@ nav_order: 4
 | Harshit Kumar               | Chemical Engineering                   | Y22   | [harshitkr22@iitk.ac.in](mailto:harshitkr22@iitk.ac.in)   |
 | Keluth Chavan Sree Samhitha | Electrical Engineering                 | Y22   | [kcsrees22@iitk.ac.in](mailto:kcsrees22@iitk.ac.in)       |
 | Mehek Agarwal               | Chemical Engineering                   | Y22   | [amehek22@iitk.ac.in](mailto:amehek22@iitk.ac.in)         |
+| Mohit Rajpoot               | Chemical Engineering                   | Y22   | [mohitr22@iitk.ac.in](mailto:mohitr22@iitk.ac.in)         |
 | Naman Agarwal               | Civil Engineering                      | Y22   | [namanag22@iitk.ac.in](mailto:namanag22@iitk.ac.in)       |
 | Nilay Agarwal               | Computer Science and Engineering       | Y22   | [nilayag22@iitk.ac.in](mailto:nilayag22@iitk.ac.in)       |
 | Paaritosh Jain              | Aerospace Engineering                  | Y22   | [paaritoshj22@iitk.ac.in](mailto:paaritoshj22@iitk.ac.in) |
-| Siddhant Lalpuria           | Electrical Engineering                 | Y22   | [sidhantl22@iitk.ac.in](mailto:sidhantl22@iitk.ac.in)     |
+| Shivam Lal                  | Mechanical Engineering                 | Y22   | [shivaml22@iitk.ac.in](mailto:shivaml@iitk.ac.in)         |
 | Sohel Saini                 | Materials Science and Engineering      | Y22   | [sohels22@iitk.ac.in](mailto:sohels22@iitk.ac.in)         |
 | Sujal Jain                  | Chemical Engineering                   | Y22   | [sujalj22@iitk.ac.in](mailto:sujalj22@iitk.ac.in)         |
 | Tanish Singla               | Physics                                | Y22   | [tanishs22@iitk.ac.in](mailto:tanishs22@iitk.ac.in)       |
