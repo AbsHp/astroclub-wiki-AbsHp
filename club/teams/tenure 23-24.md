@@ -51,7 +51,9 @@ nav_order: 4
 | Paaritosh Jain              | Aerospace Engineering                  | Y22   | [paaritoshj22@iitk.ac.in](mailto:paaritoshj22@iitk.ac.in) |
 | Shivam Lal                  | Mechanical Engineering                 | Y22   | [shivaml22@iitk.ac.in](mailto:shivaml@iitk.ac.in)         |
 | Sohel Saini                 | Materials Science and Engineering      | Y22   | [sohels22@iitk.ac.in](mailto:sohels22@iitk.ac.in)         |
+| Srisha Singh                | Materials Science and Engineering      | Y22   | [srishas22@iitk.ac.in](mailto:srishas22@iitk.ac.in)       |
 | Sujal Jain                  | Chemical Engineering                   | Y22   | [sujalj22@iitk.ac.in](mailto:sujalj22@iitk.ac.in)         |
 | Tanish Singla               | Physics                                | Y22   | [tanishs22@iitk.ac.in](mailto:tanishs22@iitk.ac.in)       |
+| Thallapally Meghana         | Civil Engineering                      | Y22   | [tmeghana22@iitk.ac.in](mailto:tmeghana22@iitk.ac.in)     |
 | Vanshika Yadav              | Biological Sciences and Bioengineering | Y22   | [vanshika22@iitk.ac.in](mailto:vanshika22@iitk.ac.in)     |
 | Yeleena Vimal               | Biological Sciences and Bioengineering | Y22   | [yeleenav22@iitk.ac.in](mailto:yeleenav22@iitk.ac.in)     |
